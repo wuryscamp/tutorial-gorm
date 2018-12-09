@@ -1,0 +1,5 @@
+package: github.com/wuryscamp/tutorial-gorm
+import:
+- package: github.com/jinzhu/gorm
+  version: v1.9.2
+- package: github.com/jinzhu/inflection
